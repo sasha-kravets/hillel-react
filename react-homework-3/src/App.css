@@ -1,0 +1,19 @@
+html,
+body {
+  display: grid;
+  height: 100%;
+  place-items: center;
+}
+
+.wrapper {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 5px 5px 30px rgba(0,0,0,0.2);
+}
+
+.box {
+  padding: 20px;
+  border: 1px solid black;
+  margin: 20px;
+}
